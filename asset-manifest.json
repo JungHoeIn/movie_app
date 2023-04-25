@@ -1,13 +1,14 @@
 {
   "files": {
-    "main.css": "/movie_app/static/css/main.ccf4c666.css",
-    "main.js": "/movie_app/static/js/main.0d7550a9.js",
+    "main.css": "/movie_app/static/css/main.5d09705c.css",
+    "main.js": "/movie_app/static/js/main.bea0943e.js",
+    "static/media/전설의 치즈케이크.jpg": "/movie_app/static/media/전설의 치즈케이크.21f0e5d9553f16b08a7b.jpg",
     "index.html": "/movie_app/index.html",
-    "main.ccf4c666.css.map": "/movie_app/static/css/main.ccf4c666.css.map",
-    "main.0d7550a9.js.map": "/movie_app/static/js/main.0d7550a9.js.map"
+    "main.5d09705c.css.map": "/movie_app/static/css/main.5d09705c.css.map",
+    "main.bea0943e.js.map": "/movie_app/static/js/main.bea0943e.js.map"
   },
   "entrypoints": [
-    "static/css/main.ccf4c666.css",
-    "static/js/main.0d7550a9.js"
+    "static/css/main.5d09705c.css",
+    "static/js/main.bea0943e.js"
   ]
 }
