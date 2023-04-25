@@ -10,6 +10,19 @@
     width: 100%;
     max-width: 400px;
     font-weight: 300;
+    text-align: center;
+}
+.about__container img {
+    max-width: 400px;
+    width: 100%;
+    box-shadow:
+    0 8px 16px -8px rgba(0, 0, 0, 0.3),
+    0 -6px 16px -6px rgba(0, 0, 0, 0.025);
+    border-radius: 3%;
+}
+
+.about__container b {
+    color: rgb(73, 73, 255);
 }
 
 .about__container span:first-child {
@@ -18,5 +31,5 @@
 
 .about__container span:last-child {
     display: block;
-    margin-top: 10px;
+    margin-top: 20px;
 }

@@ -12,7 +12,7 @@ function App() {
        <Nav />
       <Routes>
         <Route path="/" Component={Home} />
-        <Route path="/about" Component={About} />
+        <Route path="/지선" Component={About} />
         <Route path="/movie-detail" Component={Detail} />
       </Routes>
     </HashRouter>
